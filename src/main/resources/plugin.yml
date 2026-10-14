@@ -1,6 +1,0 @@
-name: CombatTag
-version: '1.0.0'
-main: com.example.combattag.CombatTagPlugin
-api-version: '26.3'
-description: Combat timer and logout punishment
-author: ChatGPT
